@@ -1,0 +1,11 @@
+name,role,ticket name,mandays
+Alice,Backend Developer,Setup Authentication,3
+Alice,Backend Developer,Database Schema Migration,2
+Alice,Backend Developer,Create User Dashboard,4
+Bob,Frontend Developer,Implement Payment Gateway,5
+Bob,Frontend Developer,Fix Header Styling,1
+Bob,Frontend Developer,Write API Documentation,2
+Charlie,UX Designer,Design Landing Page,3
+Charlie,UX Designer,Optimize Images,1
+Charlie,UX Designer,Create Email Templates,3
+Charlie,UX Designer,Client Feedback Review,2
